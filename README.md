@@ -15,7 +15,7 @@
 # Output : 
 https://www.youtube.com/watch?v=mMPCD84t4jY
 
-<a href="https://www.youtube.com/embed/zBGmVRNHBCo" target="_blank"><img src="https://img.youtube.com/vi/mMPCD84t4jY/maxresdefault.jpg" 
+<a href="https://www.youtube.com/embed/zBGmVRNHBCo" target="_blank"><img src="https://img.youtube.com/vi/mMPCD84t4jY/_maxresdefault.jpg" 
 alt="IMAGE ALT TEXT HERE" width="50%" height="50%" border="10" /></a>
  
  
